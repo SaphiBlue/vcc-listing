@@ -1,3 +1,3 @@
 # Saphis VPM Packages
 
-See [VPM Package](https://saphiblue.github.io/vcc-listing/)
+See [VPM Packages](https://saphiblue.github.io/vcc-listing/)
