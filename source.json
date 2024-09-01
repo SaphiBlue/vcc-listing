@@ -1,7 +1,7 @@
 {
     "name":"Saphis VPM Packages Listing",
     "id":"io.github.saphiblue.vcc-listing",
-    "url":"saphiblue.github.io/vcc-listing/",
+    "url":"https://saphiblue.github.io/vcc-listing/index.json",
     "author":{
         "name":"Saphi",
         "url":"https://github.com/SaphiBlue/"
