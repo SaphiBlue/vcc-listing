@@ -13,6 +13,7 @@
     },
     "bannerUrl":"banner.png",
     "githubRepos":[
-        "SaphiBlue/quantumshader"
+        "SaphiBlue/quantumshader",
+        "SaphiBlue/fpvshader"
     ]
 }
